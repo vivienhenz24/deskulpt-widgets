@@ -479,7 +479,7 @@ const QuantumField = () => {
             }}
           >
             <img 
-              src={`/sixseven-six.gif?t=${portalId}`}
+              src={`https://cdn.jsdelivr.net/gh/vivienhenz24/deskulpt-widgets@main/quantum-field-easter/sixseven-six.gif?t=${portalId}`}
               alt="Six Seven"
               onLoad={() => {
                 console.log("GIF loaded successfully:", portalId);
