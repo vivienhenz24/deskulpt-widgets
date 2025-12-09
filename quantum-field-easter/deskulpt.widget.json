@@ -2,11 +2,11 @@
   "name": "Quantum Field Easter",
   "entry": "index.jsx",
   "authors": [
-    {"name": "Vivien",
-    "email": "vhenz@college.harvard.edu"
-  } 
+    {
+      "name": "Vivien",
+      "email": "vhenz@college.harvard.edu"
+    }
   ],
-
   "description": "Quantum Field widget that captures your hand motions, with an easter egg.",
   "version": "0.1.0-alpha.0",
   "license": "MIT",
